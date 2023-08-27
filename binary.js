@@ -2,7 +2,7 @@
 
 class newNode {
     constructor(data) {
-        this.root = data
+        this.data = data
         this.right = null
         this.left = null
     }
@@ -10,6 +10,6 @@ class newNode {
 
 class tree {
     constructor() {
-        
+
     }
 }
