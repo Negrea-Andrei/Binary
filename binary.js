@@ -7,3 +7,9 @@ class newNode {
         this.left = null
     }
 }
+
+class tree {
+    constructor() {
+        
+    }
+}
